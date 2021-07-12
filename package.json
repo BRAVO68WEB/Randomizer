@@ -1,0 +1,28 @@
+{
+  "name": "randomizer",
+  "version": "0.0.1",
+  "description": "A Random string encryptor w.r.t timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravo68web/randomizer.git"
+  },
+  "keywords": [
+    "randomizer",
+    "encrptor",
+    "enctrypt",
+    "decrypt",
+    "timestamp",
+    "secure",
+    "http-headers"
+  ],
+  "author": "BRAVO68WEB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bravo68web/randomizer/issues"
+  },
+  "homepage": "https://github.com/bravo68web/randomizer#readme"
+}
