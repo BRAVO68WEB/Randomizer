@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "hello": "echo hello world !!",
-    "test": "node ./test"
+    "test": "node ./test/sandbox"
   },
   "repository": {
     "type": "git",
@@ -27,8 +27,11 @@
   },
   "homepage": "https://github.com/bravo68web/randomizer#readme",
   "dependencies": {
+    "crypto": "^1.0.1",
     "crypto-js": "^4.0.0",
     "cryptr": "^6.0.2",
+    "extends-string": "^1.0.0",
+    "hash-wasm": "^4.8.0",
     "jose": "^3.14.0",
     "randomstring": "^1.2.1",
     "string-crypto": "^2.0.1",
