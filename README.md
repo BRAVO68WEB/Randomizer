@@ -1,5 +1,5 @@
 # Welcome to encrypted-randomizer 👋
-[![Version](https://img.shields.io/npm/v/randomizer.svg)](https://www.npmjs.com/package/randomizer)
+[![Version](https://img.shields.io/npm/v/randomizer.svg)](https://www.npmjs.com/package/encrypted-randomizer)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://bravo68web.github.io/randomizer/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/bravo68web/randomizer/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/bravo68web/randomizer)](https://github.com/bravo68web/randomizer/blob/master/LICENSE)
