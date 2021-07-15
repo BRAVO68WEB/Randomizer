@@ -1,7 +1,7 @@
 {
-  "name": "randomizer",
-  "version": "0.0.1",
-  "description": "A Random string encryptor w.r.t timestamp",
+  "name": "encrypted-randomizer",
+  "version": "1.0.0-a",
+  "description": "A Random string encryptor w.r.t. Timestamps to add Security to your Web Application",
   "main": "index.js",
   "scripts": {
     "hello": "echo hello world !!",
@@ -13,6 +13,7 @@
   },
   "keywords": [
     "randomizer",
+    "encrypted-randomizer",
     "encryptor",
     "encrypt",
     "decrypt",
