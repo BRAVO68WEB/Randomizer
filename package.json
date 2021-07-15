@@ -1,6 +1,6 @@
 {
   "name": "encrypted-randomizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Random string encryptor w.r.t. Timestamps to add Security to your Web Application",
   "main": "index.js",
   "scripts": {
