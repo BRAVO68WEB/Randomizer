@@ -47,14 +47,13 @@ async axios(config)
 .catch(function (error) {
   console.log(error);
 });
-
 ```
 {% endtab %}
 {% endtabs %}
 
 ## Backend
 
-At Backend,  integrate as follows :-
+At Backend, integrate as follows :-
 
 {% tabs %}
 {% tab title="Initialization" %}
@@ -62,7 +61,6 @@ At Backend,  integrate as follows :-
 const { Validator } = require("encrypted-randomizer");
 const privateKey = process.env.YOUR_AUTH_KEY;
 // set same YOUR_AUTH_KEY as an enviornment variable as used above.
-
 ```
 {% endtab %}
 

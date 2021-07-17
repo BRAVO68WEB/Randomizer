@@ -9,7 +9,6 @@ Many developers face security issues while linking Backend with Frontend.
 For instance, unable to verify weather the HTTP request came from your Frontend Website,
 Or, Backend API being data-scraped/mined, etc. 
 So, to handle these usecases, I build this Project.
-
 ```
 
 ## Welcome to encrypted-randomizer 👋
