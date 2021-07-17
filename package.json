@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "A Random string encryptor w.r.t. Timestamps to add Security to your Web Application",
   "main": "index.js",
-  "scripts":
+  "scripts": {
     "test": "node ./test/sandbox"
   },
   "repository": {
