@@ -1,10 +1,9 @@
 {
   "name": "encrypted-randomizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Random string encryptor w.r.t. Timestamps to add Security to your Web Application",
   "main": "index.js",
-  "scripts": {
-    "hello": "echo hello world !!",
+  "scripts":
     "test": "node ./test/sandbox"
   },
   "repository": {
