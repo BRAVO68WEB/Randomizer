@@ -21,7 +21,7 @@ jobs:
           cmd: test # will run `yarn test` command
 
   publish-npm:
-    needs: Publish
+    needs: Test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
