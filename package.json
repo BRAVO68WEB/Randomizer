@@ -28,7 +28,7 @@
   "homepage": "https://github.com/bravo68web/randomizer#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "cryptr": "^6.0.2",
     "tape": "^5.2.2"
   },
